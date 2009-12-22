@@ -1,0 +1,11 @@
+#summary list of supported protocols in touchmote
+
+= Supported Protocols =
+
+== Freevo ==
+
+All media and menu commands
+
+== Others ==
+
+TODO
